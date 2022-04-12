@@ -1,0 +1,7 @@
+Directions:
+1. Open "script1.sh"
+2. Type "alias randpass='openssl rand -hex 6'
+3. Press Control+X
+4. Press Y
+5. Press Command+W
+6. Re-open the terminal.
